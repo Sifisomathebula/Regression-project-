@@ -25,8 +25,13 @@ Install Dependencies**: Ensure that you have Python and the required libraries i
 pip install pandas matplotlib seaborn jupyter
 *Load the Dataset**: The dataset can be loaded using `pandas`:
 import pandas as pd
-
-
+## PROJECT STRUCTURE 
+`data/`: Contains the dataset file (`co2_emissions_from_agri.csv`). 
+notebooks/`: Jupyter notebooks used for data analysis.
+README.md`: Project documentation.
+## CONTRIBUTING 
+Contribution are welcome
+## LICENSE
 
 
 
