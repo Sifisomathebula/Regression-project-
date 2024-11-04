@@ -19,7 +19,7 @@ Support Policy and Stakeholder Decision-Making: Equip policymakers, agricultural
 python for data analysis and visualisations
 pandas to manipulate and clean the dataset 
 Matplotlib/Seaborn**: For visualizing trends and patterns in the data.
-*Jupyter Notebook**: To document and share the analysis process
+Jupyter Notebook**: To document and share the analysis process
 ## HOW TO USE
 Install Dependencies**: Ensure that you have Python and the required libraries installed. You can install the dependencies using:
 pip install pandas matplotlib seaborn jupyter
