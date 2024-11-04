@@ -27,8 +27,8 @@ pip install pandas matplotlib seaborn jupyter
 import pandas as pd
 ## PROJECT STRUCTURE 
 `data/`: Contains the dataset file (`co2_emissions_from_agri.csv`). 
-notebooks/`: Jupyter notebooks used for data analysis.
-README.md`: Project documentation.
+`notebooks/`: Jupyter notebooks used for data analysis.
+`README.md`: Project documentation.
 ## CONTRIBUTING 
 Contribution are welcome
 ## LICENSE
