@@ -1,7 +1,7 @@
 # Regression-project-
 Climate change
 
-![Uploading agri_image.png…]()
+https://github.com/Sifisomathebula/Regression-project-/blob/main/agri_image.png?raw=true
 
 
 ## OVERVIEW
